@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Dwane</h1>
-<h3 align="center">Full Stack Software Developer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 - 🌱 I’m currently learning **PHP, AWS**
 
